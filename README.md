@@ -7,7 +7,7 @@
 ------
 Github is a SCM (Source Code Management) tool that will give us Version Control and many other features so that we can easily share code and work on different parts of the code at the same time!!
 
-**Quick 5 Min Video Explanation of Git** [HERE](https://www.youtube.com/watch?v=xvwBtODV0ms)
+**Quick 5 Min Video Explanation of Git!** [HERE](https://www.youtube.com/watch?v=xvwBtODV0ms)
 
 Also Feel Free to Ask Richard Yan :grin:
 
