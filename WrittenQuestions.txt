@@ -1,0 +1,30 @@
+Question 1
+1.	(a) True. As K increases, the model will be less flexible and therefore the bias will increase.
+(b) False. As K increases, the model will be more stable and therefore the variance will reduce.
+(c) True. As K increases, the model is less fitted with the training dataset and therefore the misclassification rate will increase.
+(d) False. Because when K is very small, there is usually an overfitting issue, so as K increases, the misclassification rate will first decrease, and then increase.
+
+2.	(a) True. (2) is a more complex model than (1), so the estimate will have more variance.
+(b) True. (2) is less fitted than (3), so the estimate will have more bias
+(c) True. (3) uses the most complicated model to fit the training data, therefore will have the smallest training error
+(d) False. (1) is too simple and does not fit the data well, so it will have bigger test error
+
+3.	False. While unlikely, it is possible that the misclassification rate on a validation set is smaller than the training set if the validation set happens to fit the model better than the training set itself. 
+
+4.	False. K-fold cross-validation does not provide an unbiased estimate of the predictive error of the models because the estimate could be sensitive to the random choice of folds. 
+
+Question 2
+1.	R code:
+set.seed(123)
+x = runif(100,-1,1)
+e = rnorm(100)
+y = 1.8*x+2+e
+
+xt = runif(10000,-1,1)
+et = rnorm(10000)
+yt = 1.8*xt+2+et
+
+2.	
+ 
+
+3.	
