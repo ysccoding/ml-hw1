@@ -3,6 +3,9 @@
 
 ![Alt Text](https://media.giphy.com/media/kBZrg2OcrcOFJikffT/giphy.gif)
 
+[Homework Questions](./hwAssignment.pdf)
+[Our Submitted Solution](./HW1_RichardYan_CarlyZhao_LiLi.pdf)
+
 ## About Github 
 ------
 Github is a SCM (Source Code Management) tool that will give us Version Control and many other features so that we can easily share code and work on different parts of the code at the same time!!
