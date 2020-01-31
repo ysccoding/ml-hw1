@@ -4,6 +4,7 @@
 ![Alt Text](https://media.giphy.com/media/kBZrg2OcrcOFJikffT/giphy.gif)
 
 [Homework Questions](./hwAssignment.pdf)
+
 [Our Submitted Solution](./HW1_RichardYan_CarlyZhao_LiLi.pdf)
 
 ## About Github 
