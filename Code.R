@@ -193,14 +193,16 @@ x = runif(100,-1,1)
 e = rnorm(100)
 y = sin(2*x)+2+e
 
-X=NULL
-p = seq(2,20,1)
-for (n in p){
-  X[n]=rnorm(100)
+X=data.frame(y,x)
+
+for (p in 2:20){
+  X[]=rnorm(100)
   
 }
 
-
+for (i in 1:10) {
+  
+}
 
 # generate test data #
 xt = runif(10000,-1,1)
