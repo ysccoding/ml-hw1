@@ -1,5 +1,5 @@
 # ml-hw1
-## Repository for Machine Learning HW1 - Richard Yan, Li Li, Carly Zhao
+## Machine Learning HW1 - Richard Yan, Li Li, Carly Zhao
 
 ![Alt Text](https://media.giphy.com/media/kBZrg2OcrcOFJikffT/giphy.gif)
 
